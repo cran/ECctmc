@@ -1,11 +1,11 @@
-51d8985a7d4b5f3db3135c9337a61b00 *DESCRIPTION
+d7af6abaaf18ce4edd09423f7d768979 *DESCRIPTION
 974d6e9b6dba699a118eb49692fcda0e *NAMESPACE
 80078183c261b783bc1a0b1f50c2bd67 *R/RcppExports.R
 58ab27d8f977a378d6ce39e744d76f3b *R/sample_path.R
-f028f47c4b6bf858801036643f5253d4 *build/vignette.rds
+4f09bb42608eeecc8dd7a7fa5ae7c5f1 *build/vignette.rds
 9d9c5e5f2fe148e13fb015a3adf86f90 *inst/doc/ECctmc_vignette.R
-b42b5a462ffd6f22a80a0ad10f6fb39f *inst/doc/ECctmc_vignette.Rmd
-6597c63992aa2f75c2ebcfabcfbcc54b *inst/doc/ECctmc_vignette.html
+e86ab28b386dac7e8353231ac100092c *inst/doc/ECctmc_vignette.Rmd
+c284a59c0d3fa2fb4ab9eba21458f49a *inst/doc/ECctmc_vignette.html
 a23c9effdcaa20694434c93aaeb92f2a *inst/include/ECctmc.h
 103c5a8666fdaf7c1b8c19e96c564221 *inst/include/ECctmc_RcppExports.h
 ec75b6d765c3db2c8d70b5c11d9136c8 *man/sample_path.Rd
@@ -15,8 +15,8 @@ db72621cea912603e5cf38314af814d1 *man/sample_path_unif2.Rd
 2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
 8d46d69896a1f1d31ed76035a0e49d67 *src/Makevars.win
 f8552497464fc6a4e56329617c905b13 *src/RcppExports.cpp
-4c4e832593bde61dfe23aa2fed7a0b48 *src/simulation_functions.cpp
+ed989dc6aaf2a088643b4b8f2eeae067 *src/simulation_functions.cpp
 df1515a2f8b8957c5bc0ad4b5d2f41b9 *tests/testthat.R
 c3cca8f4bb5d2283c494ce4b5215b508 *tests/testthat/ECctmc_full_tests.R
 af2d8531f3de32c93dc1bff7e7f67010 *tests/testthat/test_simfcns.R
-b42b5a462ffd6f22a80a0ad10f6fb39f *vignettes/ECctmc_vignette.Rmd
+e86ab28b386dac7e8353231ac100092c *vignettes/ECctmc_vignette.Rmd
